@@ -1,4 +1,4 @@
-- 📫 How to reach me - qw22@nostrplebs.com
+- 📫 How to reach me - jqw22@nostrplebs.com
 
 <!---
 jqw22/jqw22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
